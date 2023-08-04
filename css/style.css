@@ -1,0 +1,19 @@
+*{
+    /* background-color: black; */
+}
+h1{
+    background-color: aliceblue;
+}
+.bg-brown{
+    background-color: brown;
+}
+.color-light{
+    color: aliceblue;
+}
+#second-para-heading{
+    background-color: bisque;
+}
+
+.para-one-parent p{
+    color: brown;
+}
